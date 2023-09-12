@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1694542853 source:c:\users\dell\desktop\long calculator\bignumber.cpp
+	<cstdlib>
+	"BigNumber.h"
+	<bits/stdc++.h>
+
+1694542977 c:\users\dell\desktop\long calculator\bignumber.h
+	<string>
+	<ostream>
+
+1694544072 source:c:\users\dell\desktop\long calculator\main.cpp
+	"BigNumber.h"
+	<iostream>
+
